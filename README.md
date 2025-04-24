@@ -86,7 +86,7 @@ flutter_app/
 
 4. **Run the app:**
    ```bash
-   flutter run
+   flutter run -d chrome --web-port=5000  
    ```
 
 ## 🧑‍💻 Usage

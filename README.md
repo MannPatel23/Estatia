@@ -36,14 +36,15 @@ A cross-platform real estate listing application built with Flutter and Firebase
 ## 🖼️ Screenshots
 
 <img width="325" alt="LoginScreen" src="https://github.com/user-attachments/assets/357fa76f-635f-4f55-80fd-73c719ae5173" />
+<img width="323" alt="RegisterPage" src="https://github.com/user-attachments/assets/38dca765-0b9d-4a4f-adc9-a013038a2df9" />
 <img width="323" alt="HomeScreen" src="https://github.com/user-attachments/assets/7ae7f21c-129d-4dfd-b46c-6636dd341bd3" />
+<img width="324" alt="ListPropertyPage" src="https://github.com/user-attachments/assets/f3cd388d-b566-41d0-a9ff-00aeb0a90c03" />
 <img width="324" alt="MyListingsPage" src="https://github.com/user-attachments/assets/5674e826-880b-4053-af1a-311f2144cbfa" />
 <img width="322" alt="FavouritesPage" src="https://github.com/user-attachments/assets/316431a2-0ca5-4e66-ae32-4afd89ed67ba" />
-<img width="324" alt="ListPropertyPage" src="https://github.com/user-attachments/assets/f3cd388d-b566-41d0-a9ff-00aeb0a90c03" />
 <img width="322" alt="SettingsPageLogout" src="https://github.com/user-attachments/assets/d1772136-7577-4c39-95c6-aa5f8c198572" />
-<img width="323" alt="RegisterPage" src="https://github.com/user-attachments/assets/38dca765-0b9d-4a4f-adc9-a013038a2df9" />
 
-*(Add more screenshots by taking them in-app and saving them in the assets/images folder, then referencing them here.)*
+
+
 
 ## 🛠️ Technologies Used
 
